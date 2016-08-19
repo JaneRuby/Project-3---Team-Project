@@ -6,8 +6,6 @@
 
 ---
 
- #### Overview
-
 VICEBoard
 
 -
@@ -22,11 +20,11 @@ VICEBoard
 
 #### Possible Bugs
 
--
--
--
--
--
+-Cannot change the screen orientation 3 times quickly in a row
+
+-Cannot change orientation of video
+
+-Slow loading of images depending on internet connectivity
 
 ---
 
@@ -38,5 +36,6 @@ https://docs.google.com/presentation/d/1HKOLQwsUsG4URzgweL02yukawguQ3UH5v759Ukwk
 
 #### Prototype Link
 
-[insert url to adobe thing]
-[insert animation link]
+https://xd.adobe.com/view/a9d1c1ae-a73d-4712-7ccd-b4578f6b8963/
+
+<iframe width="362" height="640" src="https://xd.adobe.com/embed/a9d1c1ae-a73d-4712-7ccd-b4578f6b8963/" frameborder="0" allowfullscreen></iframe>
