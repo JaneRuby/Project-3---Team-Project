@@ -1,4 +1,4 @@
-http://imgur.com/a/q527l VICEBoard
+http://imgur.com/a/q527l.jpg VICEBoard
 
 #### Team
 
