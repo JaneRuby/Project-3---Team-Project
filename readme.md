@@ -32,7 +32,7 @@ VICEBoard
 
 #### Product Pitch and Research
 
-[insert link here]
+https://docs.google.com/presentation/d/1HKOLQwsUsG4URzgweL02yukawguQ3UH5v759Ukwk9A4/edit?usp=sharing
 
 ---
 
