@@ -46,4 +46,4 @@ https://docs.google.com/presentation/d/1HKOLQwsUsG4URzgweL02yukawguQ3UH5v759Ukwk
 
 https://xd.adobe.com/view/a9d1c1ae-a73d-4712-7ccd-b4578f6b8963/
 
-
+*see ViceBoard.mov for animation of app*
