@@ -1,4 +1,4 @@
-http://imgur.com/a/q527l.jpg VICEBoard
+<blockquote class="imgur-embed-pub" lang="en" data-id="zPQ9Xsg"><a href="//imgur.com/zPQ9Xsg">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> VICEBoard
 
 #### Team
 
