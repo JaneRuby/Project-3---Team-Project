@@ -1,4 +1,4 @@
- ####VICEBoard
+<img src="http://i.imgur.com/kDgM2on.jpg> ####VICEBoard
 
 #### Team
 
